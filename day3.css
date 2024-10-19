@@ -1,0 +1,132 @@
+#A{
+    background-color: #A66E38;
+    padding: 15px;
+    border-color: 10px black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 30px 20px;
+}
+.B{
+    color: white;
+    text-align: center;
+    text-decoration: underline white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+.D{
+    background-color: whitesmoke;
+    margin: 30px 20px;
+}
+.F{
+    text-decoration: underline black;
+    text-align: center;
+}
+.C{
+    display: inline-block;
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    padding-top: 10px;
+    border-width: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    margin: 10px 50px;
+    box-shadow: 1px 2px 2px darkgray;
+}
+.E{
+    display: inline-block;
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    padding-top: 10px;
+    border-width: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    margin: 10px;
+    box-shadow: 1px 2px 2px darkgray;
+}
+.G{
+    text-align: center;
+    text-decoration: underline black;
+}
+.H{
+    display: inline-block;
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    padding-top: 10px;
+    border-width: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    margin: 10px 50px;;
+    box-shadow: 1px 2px 2px darkgray;
+}
+.I{
+    text-align: center;
+    text-decoration: underline black;
+}
+.J{
+    display: inline-block;
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    padding-top: 10px;
+    border-width: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    margin: 10px 50px;
+    box-shadow: 1px 2px 2px darkgray;
+}
+.K{
+    text-align: center;
+    text-decoration: underline black;
+}
+.L{
+    display: inline-block;
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    padding-top: 10px;
+    border-width: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    margin: 10px;
+    box-shadow: 1px 2px 2px darkgray;
+}
+.M{
+    text-align: center;
+    text-decoration: underline black;
+}
+.N{
+    display: inline-block;
+    background-color: white;
+    height: 380px;
+    width: 350px;
+    padding-top: 10px;
+    border-width: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    margin: 10px 50px;
+    box-shadow: 1px 2px 2px darkgray;
+}
+.O{
+    text-align: center;
+    text-decoration: underline black;
+}
+.P{
+    text-align: center;
+    font-size: 15px;
+}
+#Q{
+    text-align: center;
+    background-color: #A66E38;
+    padding: 15px;
+    border-color: 10px rgb(170, 22, 22);
+    border-width: 2px;
+    border-style: solid;
+    margin: 30px 20px;
+}
+#R{
+    color: aliceblue;
+}
+
