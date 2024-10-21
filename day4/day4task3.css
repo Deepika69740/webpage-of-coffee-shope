@@ -1,0 +1,29 @@
+.A{
+    background-color: black;
+    width: auto;
+    display: flex;
+    height: 90px;
+ 
+ }
+ .B{
+     color: white;
+     align-content: center;
+     padding-right: 70px;
+     
+ }
+ .C{
+    margin-left: 20px;
+     padding-right: 200px;
+ 
+ }
+ .E{
+     margin: 30px 0px 0px 0px;
+     background-color: white;
+     width: auto;
+     height: 10px;
+     padding: 10px 25px;
+     border-radius: 10px;
+     justify-content: center;
+     justify-content: space-evenly;
+ }
+ 

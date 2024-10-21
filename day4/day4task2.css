@@ -1,0 +1,30 @@
+.A{
+   background-color: var(--token-79343770-a654-4890-856d-5f49e1ca59ec, #224433);
+   width: auto;
+   display: flex;
+   height: 100px;
+
+}
+.B{
+    color: white;
+    align-content: center;
+    padding-right: 70px;
+}
+.C{
+    padding-right: 200px;
+
+}
+.D{
+    margin: 40px 0px 0px 0px;
+    background-color: chartreuse;
+    width: auto;
+    height: 10px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.E{
+    padding-left: 60px;
+    align-content: center;
+}

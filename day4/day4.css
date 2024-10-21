@@ -1,0 +1,13 @@
+.A{
+    background-color: #E9EED9;
+    padding: 10px;
+    margin: 0px 10px;
+    border-radius: 6px;
+    margin: 18px;
+
+}
+.parent{
+    display: flex;
+    justify-content: center;
+
+}
